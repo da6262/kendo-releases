@@ -1,0 +1,7 @@
+{
+  "version": "1.4.1",
+  "build_number": 11,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.4.1/kendo_v1.4.1.apk",
+  "release_notes": "• 인앱 업데이트 기능 추가\n• 메인 화면에 버전 표시\n• 뒤로가기 처리 개선\n• 모임 만들기 로케일 에러 수정",
+  "min_build_number": 0
+}
