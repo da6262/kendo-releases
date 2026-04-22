@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
-  "build_number": 20,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.8.0/kendo_v1.8.0.apk",
-  "release_notes": "[v1.8.0 - 통합 댓글 & 후기 시스템]\n\n💬 도장 수련 후기\n• 별점(1~5) + 텍스트 + 사진 1장 업로드\n• 체크인 이력이 있는 사용자만 별점 가능\n• 체크인 없어도 후기(텍스트/사진)는 작성 가능\n• 도장 상세 바텀시트에 '후기 보기/작성' 버튼\n\n❓ 모임 문의 Q&A\n• 모임 상세에 질문/답변 섹션\n• 답글 1단 지원\n• 모임 관련 궁금한 점 해결\n\n🔧 관리자 댓글 관리\n• 전체/도장 후기/모임 문의 필터\n• 부적절한 글 즉시 삭제 (답글 자동 연쇄 삭제)\n• 관리자 화면 우측 상단 '댓글 관리' 아이콘\n\n📸 사진 업로드\n• 이미지 1080px 자동 압축 (~200KB)\n• Supabase Storage 공개 버킷",
+  "version": "1.9.0",
+  "build_number": 22,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.9.0/kendo_v1.9.0.apk",
+  "release_notes": "[v1.9.0 - UI 디자인 고도화]\n\n🎨 전체 디자인 폴리시\n• 색상 체계 정교화: Deep Navy #0A1128, Crimson Red #D62828, 배경 #F4F4F9\n• 카드 디자인 개선: 소프트 그림자 + 통일된 테마\n\n🏠 대시보드 개선\n• 체크인 버튼: 탭 시 눌리는 애니메이션 + 햅틱 피드백\n• 스켈레톤 로딩: 데이터 로드 전 shimmer 애니메이션 표시\n• 포인트 배지 부드러운 페이드인\n• 더 넓은 여백으로 호흡감 향상\n\n🗺️ 도장 찾기 개선\n• 상단 검색바: 글라스모피즘 (백드롭 블러)\n• 바텀시트: 부드러운 슬라이드 + 페이드 애니메이션\n• 드래그 핸들 추가\n\n📱 기타\n• 바로가기 메뉴 햅틱 피드백\n• FilledButton 전역 테마 통일",
   "min_build_number": 0
 }
