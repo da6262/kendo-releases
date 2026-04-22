@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "build_number": 30,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.0.1/kendo_v2.0.1.apk",
-  "release_notes": "[v2.0.1 - 대시보드 월간 차트]\n\n📊 대시보드 차트 변경\n• 주간 차트(월~일) → 월간 주차별 차트(1~5주차)\n• 현재 주차 빨간색 강조\n• 통계 '이번 주' → '이번 달'로 변경",
+  "version": "2.0.0",
+  "build_number": 35,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.0.0/kendo_v2.0.0.apk",
+  "release_notes": "[v2.0.0] 메인 화면 헤더 텍스트 겹침 수정",
   "min_build_number": 0
 }
