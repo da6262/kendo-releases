@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
-  "build_number": 11,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.4.1/kendo_v1.4.1.apk",
-  "release_notes": "• 인앱 업데이트 기능 추가\n• 메인 화면에 버전 표시\n• 뒤로가기 처리 개선\n• 모임 만들기 로케일 에러 수정",
+  "version": "1.4.2",
+  "build_number": 12,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.4.2/kendo_v1.4.2.apk",
+  "release_notes": "• MY 화면 버전 표시 수정 (v1.2.0 하드코딩 → 동적 로드)\n• MY 화면에 '업데이트 확인' 버튼 추가\n• 인앱 업데이트 플로우 실전 테스트",
   "min_build_number": 0
 }
