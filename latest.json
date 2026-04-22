@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
-  "build_number": 12,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.4.2/kendo_v1.4.2.apk",
-  "release_notes": "• MY 화면 버전 표시 수정 (v1.2.0 하드코딩 → 동적 로드)\n• MY 화면에 '업데이트 확인' 버튼 추가\n• 인앱 업데이트 플로우 실전 테스트",
+  "version": "1.5.0",
+  "build_number": 13,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.5.0/kendo_v1.5.0.apk",
+  "release_notes": "[대규모 업데이트]\n\n📍 도장\n• 도장 상세 페이지 신규 추가\n• 운영 요일/시간, 사용료, 지도자 정보\n• 시설 태그 (샤워/주차/무료계고/장비대여 + 사용자 정의)\n• 수련 후기 작성 (평점 5점)\n• 정보 편집 기능 (누구나 기여)\n• 전화/길찾기 바로가기\n\n👥 모임\n• 모임 종류 분류: 합동연무 / 오픈계고 / 계고회\n• 상단 필터 탭으로 종류별 보기\n• 카드에 종류 배지 표시\n\n🏠 대시보드\n• 현재 지역 표시 (예: 경산시 하양읍)",
   "min_build_number": 0
 }
