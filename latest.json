@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "build_number": 22,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v1.9.0/kendo_v1.9.0.apk",
-  "release_notes": "[v1.9.0 - UI 디자인 고도화]\n\n🎨 전체 디자인 폴리시\n• 색상 체계 정교화: Deep Navy #0A1128, Crimson Red #D62828, 배경 #F4F4F9\n• 카드 디자인 개선: 소프트 그림자 + 통일된 테마\n\n🏠 대시보드 개선\n• 체크인 버튼: 탭 시 눌리는 애니메이션 + 햅틱 피드백\n• 스켈레톤 로딩: 데이터 로드 전 shimmer 애니메이션 표시\n• 포인트 배지 부드러운 페이드인\n• 더 넓은 여백으로 호흡감 향상\n\n🗺️ 도장 찾기 개선\n• 상단 검색바: 글라스모피즘 (백드롭 블러)\n• 바텀시트: 부드러운 슬라이드 + 페이드 애니메이션\n• 드래그 핸들 추가\n\n📱 기타\n• 바로가기 메뉴 햅틱 피드백\n• FilledButton 전역 테마 통일",
+  "version": "2.0.0",
+  "build_number": 26,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.0.0/kendo_v2.0.0.apk",
+  "release_notes": "[v2.0.0 - 월간 목표 시스템 + 카카오맵 전환]\n\n🗺️ 카카오맵 전환\n• Google Maps → Kakao Maps (국내 지도 서비스)\n• 카카오 API 완전 통합\n\n🎯 월간 목표 시스템\n• 대시보드 중앙에 원형 프로그레스 바\n• 이번 달 목표 20회 달성률 실시간 표시\n• 목표 달성 시 Crimson Red glow 효과\n\n🎨 대시보드 디자인 고도화\n• 시간대별 동적 인삿말 (새벽/아침/점심/저녁/밤)\n• 바로가기 메뉴 → 컬러 카드 스타일 (네이비/블루/레드/그린)\n• 주간 차트 그라데이션 (오늘=레드, 일반=네이비)\n• 전체 그라데이션 색상 정교화",
   "min_build_number": 0
 }
