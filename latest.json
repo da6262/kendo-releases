@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 82,
+  "build_number": 87,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 수련달력 자동등록, 대시보드 수련예정, 관리자 저장오류 수정, 서명충돌 수정",
+  "release_notes": "[v2.1.7] 번개 카드 참가하기 버튼 + Gradle OOM 수정",
   "min_build_number": 0
 }
