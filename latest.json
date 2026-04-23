@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 96,
+  "build_number": 97,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 대시보드 커뮤니티 재설계 - 오늘 수련 인원 + 열린 번개 매칭",
+  "release_notes": "[v2.1.7] 도장 수정 날짜 표시 + 최근 수정순 정렬",
   "min_build_number": 0
 }
