@@ -1,7 +1,7 @@
 {
   "version": "2.1.6",
-  "build_number": 50,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.6/kendo_update.apk",
-  "release_notes": "[v2.1.6] 개인정보처리방침·이용약관 추가, 관리자 저장 피드백 개선",
+  "build_number": 60,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.6b/kendo_update.apk",
+  "release_notes": "[v2.1.6] 관리자 메뉴 표시 수정, 개인정보처리방침·이용약관 추가",
   "min_build_number": 0
 }
