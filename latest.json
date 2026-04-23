@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 99,
+  "build_number": 100,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 신규등록 탭 최근 1개월 필터",
+  "release_notes": "[v2.1.7] 대시보드 카드 탭 직접 이동",
   "min_build_number": 0
 }
