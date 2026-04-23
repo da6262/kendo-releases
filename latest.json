@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 102,
+  "build_number": 108,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 수련 달력 번개·모임 일정 표시",
+  "release_notes": "[v2.1.7] APK 다운로드 리다이렉트 버그 수정, PWA 웹 배포",
   "min_build_number": 0
 }
