@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "build_number": 37,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.0.1/kendo_v2.0.1.apk",
-  "release_notes": "[v2.0.1] 업데이트 중복 버그 수정",
+  "version": "2.0.2",
+  "build_number": 38,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.0.2/kendo_v2.0.2.apk",
+  "release_notes": "[v2.0.2] 도장 검색 + 수련 시작/종료 시간 추가",
   "min_build_number": 0
 }
