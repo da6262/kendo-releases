@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 93,
+  "build_number": 94,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 관리자 도장 카드 수정 날짜 표시",
+  "release_notes": "[v2.1.7] 모임 탭 신규등록으로 변경 + 검도장 라벨 수정",
   "min_build_number": 0
 }
