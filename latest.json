@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "build_number": 47,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.4/kendo_update.apk",
-  "release_notes": "[v2.1.4] 번개/모임 장소 자동완성 - 도장 선택 시 주소 자동 표시",
+  "version": "2.1.5",
+  "build_number": 48,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.5/kendo_update.apk",
+  "release_notes": "[v2.1.5] 스플래시 화면 + 도장 찾기 애니메이션 전환 + 필 토글 + 카드 리디자인",
   "min_build_number": 0
 }
