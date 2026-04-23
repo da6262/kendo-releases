@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 90,
+  "build_number": 91,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 번개 참가하기 무반응 + 후기 로딩 실패 근본 수정 (FK 누락)",
+  "release_notes": "[v2.1.7] 업데이트 다운로드 실패 근본 수정 (GitHub 302 리다이렉트)",
   "min_build_number": 0
 }
