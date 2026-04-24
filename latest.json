@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 137,
+  "build_number": 140,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 앱 최초 설치 시 다크모드 기본 실행 수정 → 라이트모드 기본값",
+  "release_notes": "[v2.1.7] revert: 바로가기 버튼 원래 4색 카드 스타일로 복원",
   "min_build_number": 0
 }
