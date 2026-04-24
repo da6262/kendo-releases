@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 183,
+  "build_number": 185,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] refactor: 대시보드 스탯(포인트·랭킹·이번달) 플로팅 카드 → 이름 옆 인라인 이동",
+  "release_notes": "[v2.1.7] feat: 관장/사범/일반 역할 시스템 추가 (자기신고 + 도장 클레임 인증)",
   "min_build_number": 0
 }
