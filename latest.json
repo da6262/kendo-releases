@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 179,
+  "build_number": 180,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 신규등록 탭 AdminScreen으로 복원 (DB 수집 모드)",
+  "release_notes": "[v2.1.7] fix: 공지 배너 탭 전환 후 사라짐 수정 (SharedPreferences 캐시)",
   "min_build_number": 0
 }
