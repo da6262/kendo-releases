@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 116,
+  "build_number": 119,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 수련기록 추가에 합동연무/번개 장소 선택 지원",
+  "release_notes": "[v2.1.7] feat: 방문형 번개 구현 완료",
   "min_build_number": 0
 }
