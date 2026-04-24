@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 163,
+  "build_number": 166,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 지난 번개 카드 탭 시 상세 바텀시트 연결",
+  "release_notes": "[v2.1.7] fix: 승단 심사 기준표 정확도 수정 - 7단 10년, 8·9단 추가, 제한연령 반영",
   "min_build_number": 0
 }
