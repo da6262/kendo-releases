@@ -2,6 +2,6 @@
   "version": "2.1.7",
   "build_number": 154,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 알림 5종 추가 (번개참가/탈퇴/취소, 모임탈퇴/취소)",
+  "release_notes": "[v2.1.7] feat: 단급 생애주기 시각화 - 반원 프로그레스 + 타임라인",
   "min_build_number": 0
 }
