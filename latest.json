@@ -2,6 +2,6 @@
   "version": "2.1.7",
   "build_number": 151,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 삭제 확인 다이얼로그 context 버그 수정 (builder: ctx) + 정말 삭제 문구 추가",
+  "release_notes": "[v2.1.7] feat: 방문형 번개 지역 기반 FCM 알림 추가 (#2)",
   "min_build_number": 0
 }
