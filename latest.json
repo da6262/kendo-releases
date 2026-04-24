@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 119,
+  "build_number": 124,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 방문형 번개 구현 완료",
+  "release_notes": "[v2.1.7] fix: 웹 PWA 호환성 개선 및 모임 상세 화면 리디자인",
   "min_build_number": 0
 }
