@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 153,
+  "build_number": 154,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 단급 시험 일정 + 응시 자격 계산 기능 추가",
+  "release_notes": "[v2.1.7] feat: 번개 게시판 지난 번개 탭 추가",
   "min_build_number": 0
 }
