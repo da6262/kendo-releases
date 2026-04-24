@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 143,
+  "build_number": 144,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 바로가기 버튼 텍스트 말줄임 수정 (FittedBox 자동축소)",
+  "release_notes": "[v2.1.7] fix: \ubc88\uac1c/\ubaa8\uc784 \ub0a0\uc9dc UTC \uc800\uc7a5 \uc218\uc815 - \ub2ec\ub825 \ub0a0\uc9dc \uc624\ucc28 \ud574\uc18c",
   "min_build_number": 0
 }
