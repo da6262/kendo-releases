@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 114,
+  "build_number": 116,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 신규등록 탭 정렬 옵션 추가",
+  "release_notes": "[v2.1.7] feat: 수련기록 추가에 합동연무/번개 장소 선택 지원",
   "min_build_number": 0
 }
