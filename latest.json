@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 172,
+  "build_number": 175,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: PWA 설치 후 앱 다운로드 버튼 숨김, 설치 안내 다이얼로그 추가",
+  "release_notes": "[v2.1.7] fix: 로그인 화면 안드로이드 앱 다운로드 버튼 제거",
   "min_build_number": 0
 }
