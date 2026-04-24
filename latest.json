@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 160,
+  "build_number": 162,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 출생연도 슬라이더 범위 확대, 취득일 미입력 안내 추가",
+  "release_notes": "[v2.1.7] feat: 웹 대시보드 안드로이드 APK 다운로드 배너 추가",
   "min_build_number": 0
 }
