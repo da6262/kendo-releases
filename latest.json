@@ -2,6 +2,6 @@
   "version": "2.1.7",
   "build_number": 159,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 타임라인 현재+미래 단급만 표시",
+  "release_notes": "[v2.1.7] fix: 생애주기 - 대기기간 수정, 출생연도 추가, 데이터 저장 RLS 수정",
   "min_build_number": 0
 }
