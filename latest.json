@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 124,
+  "build_number": 129,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 웹 PWA 호환성 개선 및 모임 상세 화면 리디자인",
+  "release_notes": "[v2.1.7] perf: DB 최적화(get_my_rank RPC), RLS 보안 강화, 캐싱 전략 적용",
   "min_build_number": 0
 }
