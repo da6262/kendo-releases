@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 193,
+  "build_number": 196,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 역할 메뉴 임시 비활성화 (일반/사범/관장)",
+  "release_notes": "[v2.1.7] feat: 가입 시 기본정보 입력 화면, 칩 텍스트 수정, 지역 다중 선택, last_login_at 기록",
   "min_build_number": 0
 }
