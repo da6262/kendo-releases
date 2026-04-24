@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 129,
+  "build_number": 132,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] perf: DB 최적화(get_my_rank RPC), RLS 보안 강화, 캐싱 전략 적용",
+  "release_notes": "[v2.1.7] feat: CarouselSection 대시보드 번개 섹션 연결",
   "min_build_number": 0
 }
