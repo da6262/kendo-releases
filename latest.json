@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 144,
+  "build_number": 145,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: \ubc88\uac1c/\ubaa8\uc784 \ub0a0\uc9dc UTC \uc800\uc7a5 \uc218\uc815 - \ub2ec\ub825 \ub0a0\uc9dc \uc624\ucc28 \ud574\uc18c",
+  "release_notes": "[v2.1.7] fix: 전체 날짜 저장/쿼리 toUtc() 적용 - UTC 타임존 오차 일괄 수정",
   "min_build_number": 0
 }
