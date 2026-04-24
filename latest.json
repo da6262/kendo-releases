@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 196,
+  "build_number": 197,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 역할 메뉴 비활성화 + 승단화면 단급변경/출생연도입력 개선",
+  "release_notes": "[v2.1.7] fix: 뒤로가기 종료 버튼 안되는 문제 수정 (exit(0) 적용)",
   "min_build_number": 0
 }
