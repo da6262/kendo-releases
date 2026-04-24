@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 140,
+  "build_number": 142,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] revert: 바로가기 버튼 원래 4색 카드 스타일로 복원",
+  "release_notes": "[v2.1.7] feat: 도장 바텀시트에 후기 섹션 인라인 표시 + 후기 수정 기능 추가",
   "min_build_number": 0
 }
