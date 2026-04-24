@@ -2,6 +2,6 @@
   "version": "2.1.7",
   "build_number": 166,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 승단 심사 기준표 정확도 수정 - 7단 10년, 8·9단 추가, 제한연령 반영",
+  "release_notes": "[v2.1.7] fix: 승단 용어 통일, 급수 타임라인 제거, 승단 취득일로 수정",
   "min_build_number": 0
 }
