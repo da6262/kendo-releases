@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 159,
+  "build_number": 160,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 생애주기 - 대기기간 수정, 출생연도 추가, 데이터 저장 RLS 수정",
+  "release_notes": "[v2.1.7] fix: 출생연도 슬라이더 범위 확대, 취득일 미입력 안내 추가",
   "min_build_number": 0
 }
