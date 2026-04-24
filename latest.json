@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 158,
+  "build_number": 159,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] feat: 웹 로그인 화면 안드로이드 APK 다운로드 버튼 추가",
+  "release_notes": "[v2.1.7] fix: 타임라인 현재+미래 단급만 표시",
   "min_build_number": 0
 }
