@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 201,
+  "build_number": 203,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 수련 종료 RLS + 재진입 시 세션 재표시 + 12시간 초과 자동 종료",
+  "release_notes": "[v2.1.7] fix: 관장 인증 신청 목록 조회 오류 (dojang_claims FK 추가)",
   "min_build_number": 0
 }
