@@ -2,6 +2,6 @@
   "version": "2.1.7",
   "build_number": 201,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] fix: 방문형 번개 저장 오류 + 뒤로가기 종료 버튼 수정",
+  "release_notes": "[v2.1.7] fix: 기본정보 입력 단급/지역 칩 텍스트 웹에서 안 보이는 문제 수정",
   "min_build_number": 0
 }
