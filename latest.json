@@ -2,6 +2,6 @@
   "version": "2.1.7",
   "build_number": 209,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] UTC 시간 KST 버그 수정 - 수련기록/모임/번개/알림 시간 표시 오류",
+  "release_notes": "[v2.1.7] 지난 번개 삭제 권한 관리자 전용 제한",
   "min_build_number": 0
 }
