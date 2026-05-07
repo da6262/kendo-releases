@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 217,
+  "build_number": 219,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 번개수정시 참가자알림 추가",
+  "release_notes": "[v2.1.7] 수련기록 개선(월구분·통계·유형별) + 번개FAB가림수정 + source컬럼",
   "min_build_number": 0
 }
