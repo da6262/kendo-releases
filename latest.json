@@ -1,7 +1,7 @@
 {
   "version": "2.1.7",
-  "build_number": 221,
+  "build_number": 222,
   "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v2.1.7/kendo_update.apk",
-  "release_notes": "[v2.1.7] 달력 번개 수련 10P 지급 수정",
+  "release_notes": "[v2.1.7] fix: 폼검증·알림라우팅·포인트원자화·즐겨찾기계정격리·silent catch 개선",
   "min_build_number": 0
 }
