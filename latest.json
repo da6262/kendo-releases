@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "build_number": 225,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v3.0.0/kendo_update.apk",
-  "release_notes": "[v3.0.0] v3.0.0 - 게임모드 홈 화면 전면 리디자인 (Claude Design 기반)",
+  "version": "3.0.1",
+  "build_number": 226,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v3.0.1/kendo_update.apk",
+  "release_notes": "[v3.0.1] 홈화면 UX 개선: 수련 시작 버튼 + 바로가기 4종 복원 (v3.0.1)",
   "min_build_number": 0
 }
