@@ -1,7 +1,7 @@
 {
-  "version": "4.0.2",
-  "build_number": 230,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.0.2/kendo_update.apk",
-  "release_notes": "[v4.0.2] 달력 수련기록 삭제·직접입력 지원",
+  "version": "4.1.0",
+  "build_number": 231,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.1.0/kendo_update.apk",
+  "release_notes": "[v4.1.0] 내 주변 인기 도장 랭킹 TOP 3 홈화면 추가",
   "min_build_number": 0
 }
