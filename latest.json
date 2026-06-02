@@ -1,7 +1,7 @@
 {
-  "version": "4.7.1",
-  "build_number": 269,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.7.1/kendo_update.apk",
-  "release_notes": "[v4.7.1] v4.7.1 홈 정리 Tier 2: 발자국 슬림화 + 트로피 빈 상태",
+  "version": "4.7.2",
+  "build_number": 270,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.7.2/kendo_update.apk",
+  "release_notes": "[v4.7.2] v4.7.2 0주 빈 상태 라벨 + D-day 100일 가드",
   "min_build_number": 0
 }
