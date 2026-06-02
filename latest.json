@@ -1,7 +1,7 @@
 {
-  "version": "4.6.1",
-  "build_number": 263,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.6.1/kendo_update.apk",
-  "release_notes": "[v4.6.1] v4.6.1 - 다음 갈 곳 카드 탭 → 도장 상세 바로 열기",
+  "version": "4.6.2",
+  "build_number": 265,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.6.2/kendo_update.apk",
+  "release_notes": "[v4.6.2] v4.6.2 홈 화면 5종 UX 다듬기",
   "min_build_number": 0
 }
