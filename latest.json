@@ -1,7 +1,7 @@
 {
-  "version": "4.6.4",
-  "build_number": 267,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.6.4/kendo_update.apk",
-  "release_notes": "[v4.6.4] v4.6.4 홈 공지 배너 핀 필터 누락 수정",
+  "version": "4.7.0",
+  "build_number": 268,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.7.0/kendo_update.apk",
+  "release_notes": "[v4.7.0] v4.7.0 홈 히어로 신설 + 스트릭 연속 주 전환",
   "min_build_number": 0
 }
