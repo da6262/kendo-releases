@@ -1,7 +1,7 @@
 {
-  "version": "4.9.7",
-  "build_number": 280,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.9.7/kendo_update.apk",
-  "release_notes": "[v4.9.7] P0 보안: app_roles 자기-부여 봉합 v4.9.7",
+  "version": "4.9.8",
+  "build_number": 283,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.9.8/kendo_update.apk",
+  "release_notes": "[v4.9.8] v4.9.8 출시 준비 번들: 테마 제거 + 2h 자동 종료 + 계정 삭제 PoC",
   "min_build_number": 0
 }
