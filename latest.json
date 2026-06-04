@@ -1,7 +1,7 @@
 {
-  "version": "4.9.6",
-  "build_number": 279,
-  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.9.6/kendo_update.apk",
-  "release_notes": "[v4.9.6] GPS 인증 시트 + 길찾기 목적지 fix v4.9.6",
+  "version": "4.9.7",
+  "build_number": 280,
+  "apk_url": "https://github.com/da6262/kendo-releases/releases/download/v4.9.7/kendo_update.apk",
+  "release_notes": "[v4.9.7] P0 보안: app_roles 자기-부여 봉합 v4.9.7",
   "min_build_number": 0
 }
